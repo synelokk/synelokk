@@ -10,7 +10,7 @@
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/dhianica"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhianica&layout=compact&theme=vision-friendly-dark&card_width=700&hide=html,css,blade&hide_border=true&border_radius=0">
+<a href="https://github.com/dhianica"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhianica&layout=compact&theme=vision-friendly-dark&card_width=700&hide=html,css,blade,php&hide_border=true&border_radius=0">
 
 ## 👨‍💻 Programming
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,php,cs,dotnet)](https://skillicons.dev)
