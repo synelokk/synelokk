@@ -6,9 +6,8 @@
 
 <h2>📈 Github Status<h2>
 <p align="center">
-<a href="https://github.com/dhianica"><img src="https://github-readme-stats.vercel.app/api?username=dhianica&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=0"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhianica&theme=neon-dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FFFFFF&currStreakLabel=FFB000&dates=785EF0&sideNums=FFB000&currStreakNum=FFB000&ring=DD1D1D&stroke=00000000&background=0000000"></a>
-
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dhianica&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=0">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dhianica&theme=neon-dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FFFFFF&currStreakLabel=FFB000&dates=785EF0&sideNums=FFB000&currStreakNum=FFB000&ring=DD1D1D&stroke=00000000&background=0000000">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhianica&layout=compact&theme=vision-friendly-dark&card_width=700&hide=html,css,blade,php&hide_border=true&border_radius=0">
 
 <h2>👨‍💻 Programming</h2>
