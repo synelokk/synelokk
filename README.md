@@ -15,8 +15,11 @@
 
 <h2>📚 Github Repository</h2>
 <p align="center">
-  <a href="https://github.com/dhianica/typescript-first-app">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=typescript-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
+  <a href="https://github.com/dhianica/rebell">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=rebell&theme=vision-friendly-dark&hide_border=true&border_radius=0">
+  </a>
+  <a href="https://github.com/dhianica/rebell-cli">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=rebell-cli&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
   <a href="https://github.com/dhianica/microservice-k8s-first-app">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=microservice-k8s-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
@@ -26,9 +29,6 @@
   </a>
   <a href="https://github.com/dhianica/nodejs-socket">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=nodejs-socket&theme=vision-friendly-dark&hide_border=true&border_radius=0">
-  </a>
-  <a href="https://github.com/dhianica/express-gateway-first-app">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=express-gateway-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
   <a href="https://github.com/dhianica/cluster-nodejs">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=cluster-nodejs&theme=vision-friendly-dark&hide_border=true&border_radius=0">
