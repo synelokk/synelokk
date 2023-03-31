@@ -18,9 +18,6 @@
   <a href="https://github.com/dhianica/rebell">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=rebell&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
-  <a href="https://github.com/dhianica/rebell-cli">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=rebell-cli&theme=vision-friendly-dark&hide_border=true&border_radius=0">
-  </a>
   <a href="https://github.com/dhianica/microservice-k8s-first-app">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=microservice-k8s-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
