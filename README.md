@@ -18,9 +18,6 @@
   <a href="https://github.com/dhianica/rebell">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=rebell&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
-  <a href="https://github.com/dhianica/rebell-utils">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=rebell-utils&theme=vision-friendly-dark&hide_border=true&border_radius=0">
-  </a>
   <a href="https://github.com/dhianica/microservice-k8s-first-app">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=microservice-k8s-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
@@ -30,19 +27,7 @@
   <a href="https://github.com/dhianica/nodejs-socket">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=nodejs-socket&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
-  <a href="https://github.com/dhianica/cluster-nodejs">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=cluster-nodejs&theme=vision-friendly-dark&hide_border=true&border_radius=0">
-  </a>
  
-
-<h2>📈 Github Status</h2>
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhianica&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=0" width="400" heigh="220">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhianica&theme=neon-dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FFFFFF&currStreakLabel=FFB000&dates=785EF0&sideNums=FFB000&currStreakNum=FFB000&ring=DD1D1D&stroke=00000000&background=0000000" width="400" heigh="220">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhianica&layout=compact&theme=vision-friendly-dark&card_width=700&hide=html,css,blade,php&hide_border=true&border_radius=0" width="600" heigh="220">
-
-
-
 <h2>📇 Social & Contact</h2>
 <div align="left">
   <a href="mailto:muchammad.ilham@outlook.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
