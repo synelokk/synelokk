@@ -7,24 +7,24 @@
 
 <h2>📚 Github Repository</h2>
 <p align="center">
-  <a href="https://github.com/dhianica/microservice-k8s-first-app">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=microservice-k8s-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
+  <a href="https://github.com/synelokk/microservice-k8s-first-app">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=synelokk&repo=microservice-k8s-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
-  <a href="https://github.com/dhianica/nodejs-rabbitmq">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=nodejs-rabbitmq&theme=vision-friendly-dark&hide_border=true&border_radius=0">
+  <a href="https://github.com/synelokk/nodejs-rabbitmq">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=synelokk&repo=nodejs-rabbitmq&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
-  <a href="https://github.com/dhianica/nodejs-socket">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhianica&repo=nodejs-socket&theme=vision-friendly-dark&hide_border=true&border_radius=0">
+  <a href="https://github.com/synelokk/nodejs-socket">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=synelokk&repo=nodejs-socket&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
  
 <h2>📇 Social & Contact</h2>
 <div align="left">
-  <a href="mailto:muchammad.ilham@outlook.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="mailto:muchammad.ilham@outlook.com" target="_blank" rel="noreferrer"> <img alt="S'yne Lokk's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://github.com/synelokk" target="_blank" rel="noreferrer"> <img alt="M Ilham's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  <a href="https://github.com/synelokk" target="_blank" rel="noreferrer"> <img alt="S'yne Lokk's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://linkedin.com/in/muchammad-ilham-33440b155" target="_blank" rel="noreferrer"> <img alt="M Ilham's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://linkedin.com/in/muchammad-ilham-33440b155" target="_blank" rel="noreferrer"> <img alt="S'yne Lokk's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://twitter.com/mcilhm" target="_blank" rel="noreferrer"> <img alt="M Ilham's GitHub" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+  <a href="https://twitter.com/mcilhm" target="_blank" rel="noreferrer"> <img alt="S'yne Lokk's GitHub" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
   &nbsp;
 </div>
