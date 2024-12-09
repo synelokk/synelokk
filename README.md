@@ -4,7 +4,7 @@ As a Full-stack Developer from Indonesia, I build software with clean code and g
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [https://synelokk.github.io/](http://synelokk.github.io/)
-* ✉️  You can contact me at [synelokk0610@outlook.com](mailto:synelokk0610@outlook.com)
+* ✉️  You can contact me at [synelokk0610@gmail.com](mailto:synelokk0610@gmail.com)
 * 🧠  I'm learning NestJs
 * ⚡  Coding & Coffee ✨
 
