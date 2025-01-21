@@ -2,12 +2,6 @@
 <h2>Hello! <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="20" /></h2>
 As a Full-stack Developer from Indonesia, I build software with clean code and good structure. I'm focused on making it easy to understand and maintain.
 
-* 🧠  I'm learning NestJs
-* ⚡  Coding & Coffee ✨
-
-<a href="https://www.github.com/synelokk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/synelokk?logo=github&style=for-the-badge&color=ec4899&labelColor=171717" /></a>
-
 <h2>👨‍💻 Stack </h2>
 <img src='https://skillicons.dev/icons?i=js,ts,cs,nestjs,mongodb,mysql,git,docker&theme=light'>
 
