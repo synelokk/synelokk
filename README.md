@@ -2,9 +2,6 @@
 <h2>Hello! <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="20" /></h2>
 As a Full-stack Developer from Indonesia, I build software with clean code and good structure. I'm focused on making it easy to understand and maintain.
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [https://synelokk.github.io/](http://synelokk.github.io/)
-* ✉️  You can contact me at [synelokk0610@gmail.com](mailto:synelokk0610@gmail.com)
 * 🧠  I'm learning NestJs
 * ⚡  Coding & Coffee ✨
 
